@@ -1,7 +1,7 @@
-require "ratchet-rails/version"
+require "ratchet/rails/version"
 
 module Ratchet
   module Rails
-    # Your code goes here...
+    require 'ratchet/rails/engine' if defined?(Rails)
   end
 end
