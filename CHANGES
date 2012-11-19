@@ -1,3 +1,7 @@
+Changes with ratchet-rails 0.0.2 / 2012-11-19
+
+    *) Supports older versions (3.0 <= rails version < 3.1) and unused asset pipeline.
+
 Changes with ratchet-rails 0.0.1 / 2012-11-14
 
     *) The first public version.
