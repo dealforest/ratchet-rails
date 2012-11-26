@@ -1,3 +1,7 @@
+Changes with ratchet-rails 0.0.3 / 2012-11-26
+
+    *) Add generator "ratchet:layout"
+
 Changes with ratchet-rails 0.0.2 / 2012-11-19
 
     *) Supports older versions (3.0 <= rails version < 3.1) and unused asset pipeline.

@@ -20,11 +20,19 @@ Or install it yourself as:
 
     $ gem install ratchet-rails
 
-## Usage
+## Installing to App 
 
 You can run following generators to get started with Ratchet quickly.
 
+Usage:
+
     $ rails g ratchet:install
+
+Layout (generates Ratchet compatible layout) - (Haml and Slim supported)
+
+Usage:
+
+    $ rails g ratchet:layout
 
 ## Contributing
 
