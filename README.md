@@ -44,3 +44,7 @@ Usage:
 
 [1]: https://github.com/maker/ratchet
 [2]: https://github.com/seyhunak/twitter-bootstrap-rails
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dealforest/ratchet-rails/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
